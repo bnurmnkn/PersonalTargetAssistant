@@ -1,2 +1,2 @@
 # PersonalTargetAssistant
-Mobile programming course homework
+Mobile programming course project
